@@ -1,2 +1,3 @@
-# BSA-Signatures-Experimental
-Experimenta Signatures for Binary Static Analysis
+# Signature files for BSA benchmarking
+
+This are optional rules for use with Xpertians tooling, signatures are experimental.
